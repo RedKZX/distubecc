@@ -5,7 +5,7 @@ const { SpotifyPlugin } = require('@distube/spotify');
 const { SoundCloudPlugin } = require('@distube/soundcloud');
 const { YtDlpPlugin } = require('@distube/yt-dlp');
 
-//anywehre in index after file reading and whatever else
+//anywehre in index 
 
 //Distube Client
 
