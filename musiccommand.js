@@ -1,5 +1,5 @@
 const { ButtonBuilder, ActionRowBuilder, EmbedBuilder, SlashCommandBuilder, ButtonStyle } = require('discord.js');
-const client = require('../../../index');
+const client = require('../../../index'); // route to index
 
 module.exports = {
   premiumOnly: false,
